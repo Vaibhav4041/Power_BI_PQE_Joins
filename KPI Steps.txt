@@ -1,0 +1,34 @@
+1.Define Key Business Goal
+Eg: Flipcart Big Billion Day Sales Revanue
+Increase.
+
+2.Define our Key Visuals
+   Set Key parameters
+i.--> Focus on more leads 
+Eg: Digital Marketing
+Email Marketing
+Organic Marketing
+Selecting Tasks and Substasks to achiving
+goal.
+
+ii. Apllying discount on popular products
+
+3. Determining the measurements
+Eg. How much time is spending on website
+Lenghth of timing
+Avg duration spending
+Diff products analysis on time spend by Cust.
+
+Applying aggrigate function like
+Mean median, mode.
+
+No of clicks by products.
+
+5 to 10 graphs based on measurements.
+
+4.Finalizing Your KPI's 
+Final Output 
+Increased 24 % Sales copare to previous year.
+Goal achived 
+---------------------------------------------
+Create any kpis based on this 
